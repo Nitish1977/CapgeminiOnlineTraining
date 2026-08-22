@@ -1,0 +1,6 @@
+# IDE and build files
+.idea/
+*.iml
+.DS_Store
+target/
+out/
